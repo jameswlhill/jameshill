@@ -1,10 +1,11 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: james
- * Date: 4/16/15
- * Time: 9:39 PM
- */
+ * Personal Website Schema
+ *
+ * This HTML5 describes the outline for my DDC personal web site project.
+ *
+ * @author James Hill <jhill67@cnm.edu>
+ **/
 ?>
 
 <!DOCTYPE html>
