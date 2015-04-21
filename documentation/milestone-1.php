@@ -12,7 +12,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8"/>
-		<title>PWP Schema</title>
+		<title>Milestone-1</title>
 	</head>
 	<body>
 		<header>
@@ -24,16 +24,14 @@
 				The purpose of my personal web page project will be to document and showcase
 				my professional development through the DDC boot camp, as well as my web dev portfolio.
 			</p>
-				<h4>Modules/components/classes</h4>
-				<p>
-					<ul>
-						<li>Nav</li>
-						<li>Programming education time line</li>
-						<li>Professional projects portfolio</li>
-						<li>Personal About Me section</li>
-						<li>Contact info/form</li>
-					</ul>
-				</p>
+			<h4>Modules/components/classes</h4>
+			<ul>
+				<li>Nav</li>
+				<li>Programming education time line</li>
+				<li>Professional projects portfolio</li>
+				<li>Personal About Me section</li>
+				<li>Contact info/form</li>
+			</ul>
 		</section>
 		<section>
 			<h3>Audience:</h3>
@@ -42,14 +40,14 @@
 				as well as colleagues, family, and friends.
 			</p>
 			<h4>Use Cases/User Stories</h4>
-				<ul>
-					<li>User navigates to site via mobile device</li>
-					<li>User navigates to site via desktop environment</li>
-					<li>User navigates via...gasp...IE</li>
-					<li>User navigates via nav bar</li>
-					<li>User navigates via graphical layout</li>
-					<li>User leaves a message and/or contact info</li>
-				</ul>
+			<ul>
+				<li>User navigates to site via mobile device</li>
+				<li>User navigates to site via desktop environment</li>
+				<li>User navigates via...gasp...IE</li>
+				<li>User navigates via nav bar</li>
+				<li>User navigates via graphical layout</li>
+				<li>User leaves a message and/or contact info</li>
+			</ul>
 		</section>
 		<section>
 			<h3>Goal:</h3>
