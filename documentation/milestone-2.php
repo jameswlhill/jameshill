@@ -45,29 +45,30 @@
 			</p>
 			<p>
 				<strong>Technology:</strong>
-				Primarily, Timaios is a Mac power user. He uses a 5K iMac Desktop with a 30” cinema display while in the office,
-				a 13 inch MacBook Pro laptop with retina display at home, and an iPhone 6 with an unlimited 4G data connection.
-				He also owns a Samsung Galaxy S6 running Lollipop.
+				Primarily, Timaios is a Mac user, however he also tends to keep around various installs of linux and android for testing
+				and admin purposes. He uses a 5K iMac Desktop with a 30” cinema display while in the office,
+				a 13 inch MacBook Pro laptop with retina display at home, and always carries his iPhone 6 with an unlimited 4G data connection.
+				He also just purchased a Samsung Galaxy S6 and an HTC One, both running Lollipop.
 			</p>
 			<p>
 				<strong>Attitudes/Behaviors:</strong>
-				Short on time, and usually dividing that time amongst his existing or prospective clients, Timaios is immediately
-				repelled by anything not concise and to the point. He, like most busy CTO’s, will not spend more than 5 minutes max
-				looking at anyone’s portfolio site, and only about 30 seconds on a resume. Timaios is a very grassroots professional,
+				Typically dividing the majority of his time between his existing or prospective clients, Timaios is immediately
+				repelled by any site that is not concise and to the point. He, like most busy CTO’s, will not spend more than 5 minutes max
+				looking at anyone’s portfolio, and only about 30 seconds on a resume. Timaios is also a very grassroots professional,
 				often opting for local development talent over freelancing remote workers.
 			</p>
 			<p>
 				<strong>Needs:</strong>
 				Timaios is on the hunt for a unique candidate. They should be a strong team player as well as someone who is well-versed
-				in the technologies used within the company, including HTML5, CSS3, JavaScript and JQuery, Node.js, SQL and NoSQL databases,
+				in the technologies preferred by the company. This includes HTML5, CSS3, JavaScript and JQuery, Node.js, SQL and NoSQL databases,
 				as well as PHP for building custom WordPress plugins. The ideal hire will also be someone local, who shares the same cultural
-				background as ZiaDesign’s local New Mexican clientele and who will be available to work as needed in the local office.
+				background as ZiaDesign’s primarily New Mexican clientele and who will be available to work as needed in the local office.
 			</p>
 			<p>
 				<strong>Goals:</strong>
-				Timaios has a lot on his plate and needs to discover what he’s looking for within five minutes of finding the potential
-				candidate’s portfolio site. If the site is well-organized and to the point, this will suit his needs, giving him immediate
-				access to personality and examples of previous work within moments of reaching it.
+				Timaios has a lot on his plate and needs to find what he’s looking for within five minutes of finding the potential
+				candidate’s site. If the site is well-organized and to the point, this will suit his needs, giving him immediate
+				access to the applicant's personality and examples of previous work in a mere two or three clicks.
 			</p>
 			<p>
 				<strong>Ideal Features:</strong>
@@ -101,7 +102,7 @@
 				previous work and skill set, he is only interested in dropping a quick line to express interest in hiring James.
 				So, clicking ‘Contact James’, the landing screen fades away while slowly bringing a contact form into clear view.
 				This form will have social media icons/glyphs as options above the blank contact fields, in case Timaios prefers to
-				contact James via LinkedIn or do further personal research via Twitter. It not, he can continue to fill out the simple
+				contact James via LinkedIn or do further personal research via Twitter. If not, he can continue to fill out the simple
 				form requirements, which will then allow him to send a brief e-mail to James’ professional account, james@appists.com.
 			</p>
 			<div class="container">
@@ -129,14 +130,15 @@
 			<p>
 				<h4><strong>Call to Action:</strong></h4>
 				<p>
-					This will be a landing site for all users, which will consist of a logo, home page link in the top right corner,
-					a brief greeting, and two easy options to either go to the About James page or the Contact James contact form page.
+					This will be a landing page for all visitors, which will consist of a logo, home page link in the top right corner,
+					a brief greeting, and two easy options to either go to the 'About James' page or the 'Contact James' contact form page.
 				</p>
 				<h4><strong>Home Page:</strong></h4>
 				<p>
-					This will mainly be a site navigation page, with logo, top nav menu, contact/company info footer, as well as a centrally
-					placed menu for additional site pages surrounding the four terminals of the zia symbol. Will also include links to my
-					social media accounts (LinkedIn, Facebook, and Twitter).
+					This will mainly be a stylish site navigation page, with a 'JH' diamond logo in the top left corner, a top right nav menu,
+					acontact/company info in the footer, as well as a centrally placed menu for additional site pages. This menu will consists
+					of a turqoise-on-black zia symbol, the four terminals of the zia symbol being the internal site links to the other pages.
+					The home page will also include links to my social media accounts (LinkedIn, Facebook, and Twitter).
 				</p>
 				<h4><strong>About Me:</strong></h4>
 				<p>
@@ -144,17 +146,19 @@
 					Beneath that photo, there will be several thumbnails consisting of simple imagery and explanatory captions beneath.
 					Each of these will be interactive. If the user clicks on a thumbnail, a hidden box will be produced with JQuery giving
 					more details and options about that particular interest of mine. Examples of thumbnails may be things such as hobbies,
-					professional associations, and technology interests.
+					professional associations, and technological interests.
 				</p>
 				<h4><strong>Education:</strong></h4>
 				<p>
 					This page will have similar header and footer navs. The main attraction will be an interactive, event-driven JQuery
-					timeline of my educational milestones and achievements.
+					timeline of my educational milestones and achievements. As the user drags the cursor left or right on the page,
+					the timeline will move a highlighted/animated section across the line itself and then highlight each node/milestone in turn,
+					which can then be hovered over for more information.
 				</p>
 				<h4><strong>Projects:</strong></h4>
 				<p>
 					This will be an interactive JQuery carousel slideshow of previous development experiences and projects. If a thumbnail
-					in the slide is clicked, it will link to various websites, web apps, or GitHub repositories that I’ve worked on.
+					in the slide is clicked, it will open various websites, web apps, or GitHub repositories that I’ve worked on in a new window.
 				</p>
 				<h4><strong>Contact Me:</strong></h4>
 				<p>
