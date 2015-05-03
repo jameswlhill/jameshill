@@ -1,6 +1,16 @@
-.sketch {
+#contactflow {
 	width: 600px;
-	height: 400px;
-	display: block;
-	border: 3px solid #544F4F;
++	height: 400px;
++	display: block;
++	border: 3px solid #544F4F;
+	position: relative;
+	left: 25%;
+}
+#pwpwireframe {
+	width: 600px;
++	height: 400px;
++	display: block;
++	border: 3px solid #544F4F;
+	position: relative;
+	left: 25%;
 }

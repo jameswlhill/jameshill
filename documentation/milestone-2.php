@@ -10,7 +10,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
-		<link href="../css/img.css" rel="stylesheet" type="text/css" />
+		<link href="../css/img.css" rel="stylesheet" type="text/css" >
 		<title>Milestone-2</title>
 	</head>
 	<body>
@@ -104,9 +104,11 @@
 				contact James via LinkedIn or do further personal research via Twitter. It not, he can continue to fill out the simple
 				form requirements, which will then allow him to send a brief e-mail to James’ professional account, james@appists.com.
 			</p>
+			<div class="container">
 			<figure>
 				<img src="../img/contactflow.png" id="contactflow" class="sketch" alt="use case flow chart" />
 			</figure>
+			</div>
 		</section>
 		<section>
 			<h3><strong>Proposed Site Map:</strong></h3>
