@@ -1,0 +1,12 @@
+/*Custom CSS file*/
+
+body {
+	padding-top: 50px;
+}
+.img-responsive {
+	margin-left: auto;
+	margin-right: auto;
+}
+#zia {
+	background-color: black;
+}

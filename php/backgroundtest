@@ -1,0 +1,14 @@
+<?php
+/**
+ * James' PWP zia test
+ */
+?>
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Practice Test</title>
+	</head>
+	<body>
+		<img src="../img/turqonblackzia.png" />
+	</body>
+</html>
