@@ -106,7 +106,7 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 					</div> <!--End Navbar Header -->
 					<div class="collapse navbar-collapse" id="navbar-collapse">
 						<ul class="nav navbar-nav">
-							<li><a href="#linkedin">My LinkedIn Profile</a></li>
+							<li><a href="#about">About</a></li>
 							<li><a href="//github.com/jameswlhill">GitHub Repos</a></li>
 							<li><a href="#resume">Download My Resume PDF</a></li>
 						</ul>
@@ -118,8 +118,7 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 			</div>
 		</div>
 
-		<div class="container" id="about">
-			<div class="container">
+		<div class="jumbotron" id="about">
 				<div class="row">
 					<div class="col-lg-12 col-md-12 col-xs-12">
 						<h2>Hi! I'm Jimothy</h2>
@@ -134,7 +133,7 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 				<div class="row">
 					<div class="col-lg-4 col-md-6 col-xs-12">
 						<div class="thumbnail">
-							<img src="/img/ddcicon.png"/>
+							<img src="/img/ethanol.png"/>
 							<div class="caption">
 								<h2>Brewing!</h2>
 								<p>
@@ -148,7 +147,7 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 					</div>
 					<div class="col-lg-4 col-md-6 col-xs-12">
 						<div class="thumbnail">
-							<img src="/img/ddcicon.png"/>
+							<img src="/img/cli.png"/>
 							<div class="caption">
 								<h2>Coding!</h2>
 								<p>
@@ -161,7 +160,7 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 					</div>
 					<div class="col-lg-4 col-md-6 col-xs-12">
 						<div class="thumbnail">
-							<img src="/img/ddcicon.png"/>
+							<img src="/img/orangeaero.png"/>
 							<div class="caption">
 								<h2>Horticulture!</h2>
 								<p>
@@ -173,7 +172,6 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 						</div>
 					</div>
 				</div>
-			</div>
 		</div>
 
 		<div class="container" id="resume">
@@ -327,7 +325,7 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 							</div>
 						</div>
 						<div class="item">
-							<img class="second-slide" src="/img/mobileabout.jpg" alt="project screenshot">
+							<img class="second-slide" src="/img/honeymoon.png" alt="project screenshot">
 							<div class="container">
 								<div class="carousel-caption">
 									<h3>Brewery Site</h3>
@@ -335,7 +333,7 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 							</div>
 						</div>
 						<div class="item">
-							<img class="third-slide" src="/img/mobileworks.png" alt="project screenshot">
+							<img class="third-slide" src="/img/ddcicon.png" alt="project screenshot">
 							<div class="container">
 								<div class="carousel-caption">
 									<h3>This Site!</h3>

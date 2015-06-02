@@ -6,6 +6,9 @@
 body {
 	padding-top: 50px;
 }
+#jumbotron {
+	margin: auto;
+}
 .img-responsive {
 	margin-left: auto;
 	margin-right: auto;
@@ -19,4 +22,14 @@ body {
 	width: 120px;
 }
 
+#about {
+	background-color: #7f8c97;
+}
 
+.item {
+	min-width: 100%;
+}
+
+#contact {
+	background-color: #303e49;
+}
