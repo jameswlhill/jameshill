@@ -6,7 +6,7 @@
 body {
 	padding-top: 50px;
 }
-#jumbotron {
+.jumbotron {
 	margin: auto;
 }
 .img-responsive {
@@ -23,7 +23,7 @@ body {
 }
 
 #about {
-	background-color: #7f8c97;
+	background-color: deepskyblue;
 }
 
 .item {
@@ -32,4 +32,17 @@ body {
 
 #contact {
 	background-color: #303e49;
+}
+
+#projects {
+	min-width: 100%;
+	background-color: #333333;
+}
+
+#education {
+	background-color: #75ce66;
+}
+
+#resume {
+	background-color: darkslategrey;
 }

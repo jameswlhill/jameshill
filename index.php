@@ -106,9 +106,11 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 					</div> <!--End Navbar Header -->
 					<div class="collapse navbar-collapse" id="navbar-collapse">
 						<ul class="nav navbar-nav">
-							<li><a href="#about">About</a></li>
-							<li><a href="//github.com/jameswlhill">GitHub Repos</a></li>
-							<li><a href="#resume">Download My Resume PDF</a></li>
+							<li><a href="#about">About Me</a></li>
+							<li><a href="#resume">My Resume</a></li>
+							<li><a href="#education">Education</a></li>
+							<li><a href="#contact">Contact</a></li>
+							<li><a href="//github.com/jameswlhill">My GitHub</a></li>
 						</ul>
 					</div>
 				</nav> <!--End Nav -->
@@ -160,13 +162,11 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 					</div>
 					<div class="col-lg-4 col-md-6 col-xs-12">
 						<div class="thumbnail">
-							<img src="/img/orangeaero.png"/>
+							<img src="/img/nabeshimakamon.png"/>
 							<div class="caption">
-								<h2>Horticulture!</h2>
+								<h2>Eastern/Western Philosophy</h2>
 								<p>
-									I come from a long line of green thumbs, and am proudly carrying on the tradition. I have a vegetable garden every year, and am
-									constantly covering every inch of yard with cumbersome sunflowers. I'm extremely interested in, and constantly researching, the various
-									medicinal/therapeutic properties of many botanical varieties.
+									ti estin aletheia;
 								</p>
 							</div>
 						</div>
@@ -174,7 +174,7 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 				</div>
 		</div>
 
-		<div class="container" id="resume">
+		<div class="jumbotron" id="resume">
 			<div class="row">
 				<div class="col-xs-12 col-lg-8 col-lg-offset-2">
 					<section class="panel panel-default">
@@ -245,7 +245,7 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 			</div>
 		</div>
 
-		<div id="education">
+		<div class="jumbotron" id="education">
 			<!-- Vertical Animated Timeline JQuery Plugin-->
 			<div class="container">
 				<h2>My Education</h2>
@@ -304,7 +304,7 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 			</section>
 		</div> <!-- End Timeline -->
 
-		<div class="container" id="projects">
+		<div class="jumbotron" id="projects">
 			<section>
 				<div class="page-header" id="gallery">
 					<h2>Projects I've Worked On</h2>
@@ -317,7 +317,7 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 					</ol>
 					<div class="carousel-inner" role="listbox">
 						<div class="item active">
-							<img class="first-slide" src="/img/turqonblackzia.png" alt="project screenshot">
+							<img class="first-slide" src="/img/ddcicon.png" alt="project screenshot">
 							<div class="container">
 								<div class="carousel-caption">
 									<h3>DDC Captstone...</h3>
@@ -333,7 +333,7 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 							</div>
 						</div>
 						<div class="item">
-							<img class="third-slide" src="/img/ddcicon.png" alt="project screenshot">
+							<img class="third-slide" src="/img/turqonblackzia.png" alt="project screenshot">
 							<div class="container">
 								<div class="carousel-caption">
 									<h3>This Site!</h3>
@@ -353,8 +353,8 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 			</section>
 		</div>
 
-		<div class="row">
-			<div class="container" id="contact">
+		<div class="row" id="contact">
+			<div class="container">
 				<div class="col-xs-12 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3 form-wrap">
 					<form method="post" action="/php/contact.php" id="contact-form" class="form-horizontal col-xs-10 col-xs-offset-1" role="form">
 						<div class="form-group">
