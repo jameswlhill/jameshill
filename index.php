@@ -325,7 +325,7 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 							</div>
 						</div>
 						<div class="item">
-							<img class="second-slide" src="/img/honeymoon.png" alt="project screenshot">
+							<img class="second-slide" src="/img/honeymoon2.jpg" alt="project screenshot">
 							<div class="container">
 								<div class="carousel-caption">
 									<h3>Brewery Site</h3>

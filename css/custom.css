@@ -46,3 +46,11 @@ body {
 #resume {
 	background-color: darkslategrey;
 }
+
+label.control-label {
+	color: cadetblue;
+}
+
+.first-slide, .second-slide, .third-slide {
+	margin: 0 auto;
+}
