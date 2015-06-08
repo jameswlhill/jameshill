@@ -364,36 +364,32 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 					<h2>Drop me a line!</h2>
 				</div>
 				<div class="col-xs-12 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3 form-wrap">
-					<form method="post" action="/php/contact.php" id="contact-form" class="form-horizontal col-xs-10 col-xs-offset-1" role="form">
+					<form method="post" action="./php/contact.php" id="contact-form" class="form-horizontal col-xs-10 col-xs-offset-1" role="form">
 						<div class="form-group">
-							<!-- Labels for each field are places within a <label> tag. Use the "for" attribute. the class="control-label" is for styling. -->
 							<label for="name" class="control-label">Your Name</label>
-							<!-- the div class="input-group" contains both the text field and the icon to the left -->
 							<div class="input-group">
-								<!-- this div and span contains the glyphicon to the left. aria-hidden is so that screen readers don't read this element -->
 								<div class="input-group-addon">
 									<span class="glyphicon glyphicon-user" aria-hidden="true"></span>
 								</div>
-								<!-- text field input. pay attention to the id, placeholder text, type, and placeholder attributes -->
-								<input type="text" class="form-control" id="name" placeholder="What's your name?" maxlength="150" value="<?php echo htmlspecialchars($_POST['name']); ?>" />
+								<input type="text" class="form-control" id="name" name='name' placeholder="What's your name?" maxlength="150" value="<?php echo htmlspecialchars($_POST['name']); ?>" />
 								<?php echo "<p class='text-danger'>$errName</p>";?>
 							</div>
 						</div>
 
 						<div class="form-group">
-							<label for="email1" class="control-label">Preferred Email</label>
+							<label for="email" class="control-label">Preferred Email</label>
 							<div class="input-group">
 								<div class="input-group-addon">
 									<span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
 								</div>
-								<input type="email" id="email1" class="form-control" maxlength="150" placeholder="Please enter your preferred email" value="<?php echo htmlspecialchars($_POST['email']); ?>"/>
+								<input type="email" id="email" name='email' class="form-control" maxlength="150" placeholder="Please enter your preferred email" value="<?php echo htmlspecialchars($_POST['email']); ?>"/>
 								<?php echo "<p class='text-danger'>$errEmail</p>";?>
 							</div>
 						</div>
 
 						<div class="form-group">
-							<label class="control-label" for="txtareaComments">How May I Help You?</label>
-							<textarea class="form-control" rows="5" id="txtareaComments" maxlength="500" placeholder="500 characters max."><?php echo htmlspecialchars($_POST['message']);?></textarea>
+							<label class="control-label" for="message">How May I Help You?</label>
+							<textarea class="form-control" rows="5" id="message" name="message" maxlength="500" placeholder="500 characters max."><?php echo htmlspecialchars($_POST['message']);?></textarea>
 							<?php echo "<p class='text-danger'>$errMessage</p>";?>
 						</div>
 

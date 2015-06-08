@@ -71,3 +71,7 @@ label.control-label {
 .first-slide, .second-slide, .third-slide {
 	margin: 0 auto;
 }
+
+#screenshot-carousel > div {
+	height: 500px !important;
+}
