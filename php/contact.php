@@ -35,6 +35,7 @@ if ($_POST["submit"]) {
 		} else {
 			$result='<div class="alert alert-danger">Sorry there was an error sending your message. Please try again later</div>';
 		}
+		echo $result;
 	}
 }
 

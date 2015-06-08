@@ -18,8 +18,12 @@ body {
 }
 
 .img-circle {
-	height: 200px;
+	height: 150px;
 	width: 120px;
+}
+
+div#clear {
+	height: 50px;
 }
 
 #about {
@@ -48,6 +52,19 @@ body {
 }
 
 label.control-label {
+	color: cadetblue;
+}
+
+/* Ignore the !important ;) */
+#gallery > h2 {
+	color: aqua !important;
+	text-align: center !important;
+	font-family: "Droid Serif", serif;
+	font-size: 40px !important;
+}
+
+#contact > div > div.container > h2 {
+	text-align: center;
 	color: cadetblue;
 }
 

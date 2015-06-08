@@ -122,16 +122,20 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 
 		<div class="jumbotron" id="about">
 				<div class="row">
-					<div class="col-lg-12 col-md-12 col-xs-12">
-						<h2>Hi! I'm Jimothy</h2>
-						<div>
+					<div class="col-lg-12 col-lg-offset-3 col-md-12 col-xs-12">
+						<figure class="text-center">
+							<img class="img-thumbnail img-circle img-responsive pull-left" src="/img/tie.jpg" alt="me">
+						</figure>
+						<h2>    Hi! I'm James</h2>
+						<div class="col-md-6 col-offset-4">
 							<p>
-								Welcome to my about page, it's a pleasure to be graced by your perusal. The entirety of my history and interests are quite well beyond the scope
-								of these three columnal thumbnail sections, but here's a couple of my more recent and promising hobbies.
+								I'm a true liberal artist living in New Mexico with my beautiful talented girlfriend and our dog.
+								I dabble in many things, but here's a short snapshot of projects I've been pursuing most recently.
 							</p>
 						</div>
 					</div>
 				</div>
+				<div class="row" id="clear"></div>
 				<div class="row">
 					<div class="col-lg-4 col-md-6 col-xs-12">
 						<div class="thumbnail">
@@ -181,11 +185,8 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 						<div class="panel-body">
 							<article class="panel-body">
 								<figure class="text-center">
-									<img class="img-thumbnail img-circle img-responsive" src="/img/jimothy.jpg" alt="me">
-									<figcaption>
-										<h3>James Hill's Resume</h3>
+										<h3>My Resume</h3>
 										<p>Appists LLC</p>
-									</figcaption>
 								</figure>
 							</article>
 							<hr>
@@ -317,7 +318,9 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 					</ol>
 					<div class="carousel-inner" role="listbox">
 						<div class="item active">
-							<img class="first-slide" src="/img/ddcicon.png" alt="project screenshot">
+							<a href="//bootcamp-coders.cnm.edu/~jhill/cheqout/shop/index.php">
+								<img class="first-slide" src="/img/ddcicon.png" alt="project screenshot">
+							</a>
 							<div class="container">
 								<div class="carousel-caption">
 									<h3>DDC Captstone...</h3>
@@ -325,10 +328,12 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 							</div>
 						</div>
 						<div class="item">
-							<img class="second-slide" src="/img/honeymoon2.jpg" alt="project screenshot">
+							<a href="//www.honeymoonbrewery.com/">
+								<img class="second-slide" src="/img/honeymoon2.jpg" alt="project screenshot">
+							</a>
 							<div class="container">
 								<div class="carousel-caption">
-									<h3>Brewery Site</h3>
+									<h3>Honeymoon Brewery Site</h3>
 								</div>
 							</div>
 						</div>
@@ -355,6 +360,9 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 
 		<div class="row" id="contact">
 			<div class="container">
+				<div class="container">
+					<h2>Drop me a line!</h2>
+				</div>
 				<div class="col-xs-12 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3 form-wrap">
 					<form method="post" action="/php/contact.php" id="contact-form" class="form-horizontal col-xs-10 col-xs-offset-1" role="form">
 						<div class="form-group">
