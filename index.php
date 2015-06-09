@@ -131,6 +131,7 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 					</div>
 				</div>
 			</div>
+			<div class="jumbotron" id="attemptatmobilefix"></div>
 			</div>
 		</div>
 

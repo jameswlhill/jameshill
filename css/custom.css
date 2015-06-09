@@ -40,6 +40,11 @@ div#zia.jumbotron {
 	width: 150px;
 }
 
+div#attemptatmobilefix {
+	background-color: black !important;
+	height: 10px;
+}
+
 div#clear {
 	height: 50px;
 }
@@ -131,7 +136,7 @@ and (max-device-width: 568px)
 and (-webkit-min-device-pixel-ratio: 2) {
 
 	#screenshot-carousel > div {
-		height: 250px !important;
+		height: 200px !important;
 	}
 
 }
@@ -142,7 +147,7 @@ and (device-height: 640px)
 and (-webkit-device-pixel-ratio: 2) {
 
 	#screenshot-carousel > div {
-		height: 250px !important;
+		height: 200px !important;
 	}
 
 }
