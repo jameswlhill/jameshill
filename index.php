@@ -322,11 +322,11 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 					<div class="carousel-inner" role="listbox">
 						<div class="item active">
 							<a href="//bootcamp-coders.cnm.edu/~jhill/cheqout/shop/index.php">
-								<img class="first-slide" src="/img/ddcicon.png" alt="project screenshot">
+								<img class="first-slide" src="/img/cheqout.png" alt="project screenshot">
 							</a>
 							<div class="container">
 								<div class="carousel-caption">
-									<h3>Cheqout for DDC Capstone</h3>
+									<h3>Ecommerce Site for DDC</h3>
 								</div>
 							</div>
 						</div>
@@ -334,19 +334,9 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 							<a href="//www.honeymoonbrewery.com/">
 								<img class="second-slide" src="/img/honeymoon2.jpg" alt="project screenshot">
 							</a>
-							<div class="container">
-								<div class="carousel-caption">
-									<h3>Honeymoon Brewery</h3>
-								</div>
-							</div>
 						</div>
 						<div class="item">
 							<img class="third-slide" src="/img/mysite.png" alt="project screenshot">
-							<div class="container">
-								<div class="carousel-caption">
-									<h3>My Personal Site</h3>
-								</div>
-							</div>
 						</div>
 					</div> <!-- end carousel inner-->
 					<a href="#screenshot-carousel" class="left carousel-control" role="button" data-slide="prev">

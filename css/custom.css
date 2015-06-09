@@ -18,6 +18,10 @@ body {
 	margin-bottom: 25px;
 }
 
+#welcome > h1, #zia > div.col-lg-12.col-lg-offset-3.col-md-12.col-xs-12 > div > p {
+	color: rgb(23, 107, 107);
+}
+
 #zia {
 	background-color: black;
 }
@@ -118,5 +122,37 @@ label.control-label {
 }
 
 #screenshot-carousel > div {
-	height: 500px !important;
+	height: 500px;
+}
+
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+and (-webkit-min-device-pixel-ratio: 2) {
+
+	#screenshot-carousel > div {
+		height: 250px !important;
+	}
+
+	div.cd-timeline-content.bounce-in, div.cd-timeline-content.bounce-in > h2, div.cd-timeline-content.bounce-in > p,
+	div.cd-timeline-content, div.cd-timeline-content > h2, div.cd-timeline-content > p {
+		height: 200px;
+	}
+
+}
+
+@media screen
+and (device-width: 320px)
+and (device-height: 640px)
+and (-webkit-device-pixel-ratio: 2) {
+	#screenshot-carousel > div {
+		height: 250px !important;
+	}
+
+
+	div.cd-timeline-content.bounce-in, div.cd-timeline-content.bounce-in > h2, div.cd-timeline-content.bounce-in > p,
+	div.cd-timeline-content, div.cd-timeline-content > h2, div.cd-timeline-content > p {
+		height: 200px;
+	}
+
 }
