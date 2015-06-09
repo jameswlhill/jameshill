@@ -326,7 +326,7 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 							</a>
 							<div class="container">
 								<div class="carousel-caption">
-									<h3>DDC Captstone...</h3>
+									<h3>Cheqout for DDC Capstone</h3>
 								</div>
 							</div>
 						</div>
@@ -336,15 +336,15 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 							</a>
 							<div class="container">
 								<div class="carousel-caption">
-									<h3>Honeymoon Brewery Site</h3>
+									<h3>Honeymoon Brewery</h3>
 								</div>
 							</div>
 						</div>
 						<div class="item">
-							<img class="third-slide" src="/img/turqonblackzia.png" alt="project screenshot">
+							<img class="third-slide" src="/img/mysite.png" alt="project screenshot">
 							<div class="container">
 								<div class="carousel-caption">
-									<h3>This Site!</h3>
+									<h3>My Personal Site</h3>
 								</div>
 							</div>
 						</div>

@@ -41,7 +41,7 @@ div#clear {
 }
 
 #about {
-	background-color: deepskyblue;
+	background-color: rgb(43, 129, 106);
 }
 
 .item {
@@ -58,7 +58,7 @@ div#clear {
 }
 
 #education {
-	background-color: #75ce66;
+	background-color: #07787C !important;
 }
 
 #resume {
@@ -71,7 +71,7 @@ label.control-label {
 
 /* Ignore the !important ;) */
 #gallery > h2 {
-	color: aqua !important;
+	color: rgb(56, 134, 128) !important;
 	text-align: center !important;
 	font-family: "Droid Serif", serif;
 	font-size: 40px !important;
