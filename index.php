@@ -139,9 +139,9 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 				<div class="row">
 					<div class="col-lg-4 col-md-6 col-xs-12">
 						<div class="thumbnail">
-							<img src="/img/ethanol.png"/>
+							<img id="bottle" src="/img/bottle.jpg"/>
 							<div class="caption">
-								<h2>Brewing!</h2>
+								<h2 id="brewingcaption">Brewing!</h2>
 								<p>
 									I've been home brewing now for a couple years, and I love it! I'm currently working with my wonderful girlfriend to
 									form a production and licensing company for an amazing and innovative new alcoholic beverage. Some of our less-classified concoctions
@@ -153,9 +153,9 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 					</div>
 					<div class="col-lg-4 col-md-6 col-xs-12">
 						<div class="thumbnail">
-							<img src="/img/cli.png"/>
+							<img id="code" src="/img/code.jpg"/>
 							<div class="caption">
-								<h2>Coding!</h2>
+								<h2 id="codingcaption">Coding!</h2>
 								<p>
 									I'm always reading the latest headlines from various technological journals, web design consortiums, and code forums such as Stack Overflow.
 									I'm especially interested in server-side JavaScript technologies such as the MEAN stack, as well as full stack web app development platforms
@@ -168,7 +168,7 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 						<div class="thumbnail">
 							<img src="/img/orangeaero.png"/>
 							<div class="caption">
-								<h2>Horticultural Research</h2>
+								<h2 id="horticaption">Horticultural Research</h2>
 								<p>
 									I've been interested in plant biology for a number of years, and have grown many varieties of vegetables
 									and medicinal phenotypes in various growing environments. I'm particularly interested in sustainable
@@ -185,7 +185,7 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 			<div class="row">
 				<div class="col-xs-12 col-lg-8 col-lg-offset-2">
 					<section class="panel panel-default">
-						<div class="panel-body">
+						<div id="resumepanel" class="panel-body">
 							<article class="panel-body">
 								<figure class="text-center">
 										<h3>My Resume</h3>

@@ -44,6 +44,25 @@ div#clear {
 	background-color: rgb(43, 129, 106);
 }
 
+img#bottle {
+	height: 275px !important;
+}
+
+img#code {
+	height: 275px !important;
+	width: 280px !important;
+}
+
+.thumbnail {
+	background-color: cadetblue;
+}
+
+#brewingcaption, #codingcaption, #horticaption {
+	text-align: center;
+	font-family: fantasy;
+	font-weight: 600;
+}
+
 .item {
 	min-width: 100%;
 }
@@ -61,8 +80,20 @@ div#clear {
 	background-color: #07787C !important;
 }
 
+div.cd-timeline-content.bounce-in, div.cd-timeline-content {
+	background-color: skyblue !important;
+}
+
+div.cd-timeline-content.bounce-in > h2, div.cd-timeline-content > h2 {
+	text-align: center !important;
+}
+
 #resume {
 	background-color: darkslategrey;
+}
+
+div#resumepanel.panel-body {
+	background-color: cornsilk;
 }
 
 label.control-label {
