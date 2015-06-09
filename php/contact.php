@@ -54,7 +54,7 @@ if (isset($_POST["submit"])) {
 		<link rel="shortcut icon" href="/img/blackzia.ico">
 
 		<!-- Custom Stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/css/contact.css"/>
+		<link rel="stylesheet" type="text/css" href="/css/custom.css"/>
 
 		<!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
