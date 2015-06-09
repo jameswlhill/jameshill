@@ -134,25 +134,15 @@ and (-webkit-min-device-pixel-ratio: 2) {
 		height: 250px !important;
 	}
 
-	div.cd-timeline-content.bounce-in, div.cd-timeline-content.bounce-in > h2, div.cd-timeline-content.bounce-in > p,
-	div.cd-timeline-content, div.cd-timeline-content > h2, div.cd-timeline-content > p {
-		height: 200px;
-	}
-
 }
 
 @media screen
 and (device-width: 320px)
 and (device-height: 640px)
 and (-webkit-device-pixel-ratio: 2) {
+
 	#screenshot-carousel > div {
 		height: 250px !important;
-	}
-
-
-	div.cd-timeline-content.bounce-in, div.cd-timeline-content.bounce-in > h2, div.cd-timeline-content.bounce-in > p,
-	div.cd-timeline-content, div.cd-timeline-content > h2, div.cd-timeline-content > p {
-		height: 200px;
 	}
 
 }
