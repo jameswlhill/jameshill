@@ -116,25 +116,25 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 				</nav> <!--End Nav -->
 			</div> <!--End Nav Container -->
 			<div class="jumbotron" id="zia">
-				<img class="img-responsive" id="turqzia" src="/img/turqonblackzia.png" alt="zia symbol">
+				<div id="welcome" class="col-lg-12 col-lg-offset-1 col-md-12 col-xs-12">
+					<h1>Welcome, my name is James Hill</h1>
+				</div>
+				<div class="col-lg-12 col-lg-offset-3 col-md-12 col-xs-12">
+					<figure class="text-center">
+						<img class="img-thumbnail img-circle img-responsive pull-left" src="/img/mecorrales.jpg" alt="me">
+					</figure>
+					<div class="col-md-6 col-offset-4">
+						<p>
+							I live in beautiful New Mexico with my amazing girlfriend and our dog.
+							I dabble in many things, but here's a short snapshot of projects I've been pursuing most recently...
+						</p>
+					</div>
+				</div>
+			</div>
 			</div>
 		</div>
 
 		<div class="jumbotron" id="about">
-				<div class="row">
-					<div class="col-lg-12 col-lg-offset-3 col-md-12 col-xs-12">
-						<figure class="text-center">
-							<img class="img-thumbnail img-circle img-responsive pull-left" src="/img/tie.jpg" alt="me">
-						</figure>
-						<h2>    Hi! I'm James</h2>
-						<div class="col-md-6 col-offset-4">
-							<p>
-								I'm a true liberal artist living in New Mexico with my beautiful talented girlfriend and our dog.
-								I dabble in many things, but here's a short snapshot of projects I've been pursuing most recently.
-							</p>
-						</div>
-					</div>
-				</div>
 				<div class="row" id="clear"></div>
 				<div class="row">
 					<div class="col-lg-4 col-md-6 col-xs-12">
@@ -143,7 +143,7 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 							<div class="caption">
 								<h2>Brewing!</h2>
 								<p>
-									I've been home brewing now for a couple years, and boy, is it fun. I'm currently working with my wonderful girlfriend to
+									I've been home brewing now for a couple years, and I love it! I'm currently working with my wonderful girlfriend to
 									form a production and licensing company for an amazing and innovative new alcoholic beverage. Some of our less-classified concoctions
 									as of late include a roasted dandelion root American stout, and a home-made bitters exhibiting some great herbal selections native to our
 									home, New Mexico.
@@ -166,11 +166,14 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 					</div>
 					<div class="col-lg-4 col-md-6 col-xs-12">
 						<div class="thumbnail">
-							<img src="/img/nabeshimakamon.png"/>
+							<img src="/img/orangeaero.png"/>
 							<div class="caption">
-								<h2>Eastern/Western Philosophy</h2>
+								<h2>Horticultural Research</h2>
 								<p>
-									ti estin aletheia;
+									I've been interested in plant biology for a number of years, and have grown many varieties of vegetables
+									and medicinal phenotypes in various growing environments. I'm particularly interested in sustainable
+									aeroponic/aquaponic environments designed to reduce the cost of production and transportation, while
+									simultaneously increasing nutrient content and reducing spoilage.
 								</p>
 							</div>
 						</div>
@@ -400,6 +403,7 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 						<div class="form-group">
 							<?php echo $result; ?>
 						</div>
+						<div id="output"></div>
 					</form>
 				</div>
 			</div>

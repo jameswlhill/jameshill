@@ -13,13 +13,27 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 }
+
+#welcome {
+	margin-bottom: 25px;
+}
+
 #zia {
 	background-color: black;
 }
 
+#zia > div {
+	margin-top: 50px;
+	margin-bottom: 0px;
+}
+
+div#zia.jumbotron {
+	height: 600px;
+}
+
 .img-circle {
 	height: 150px;
-	width: 120px;
+	width: 150px;
 }
 
 div#clear {
