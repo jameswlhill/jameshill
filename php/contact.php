@@ -14,7 +14,7 @@ if (isset($_POST["submit"])) {
 	$body = "From: $name\n E-Mail: $email\n Message:\n $message";
 
 	// Check if name has been entered
-	if (!isset($_POST['name'])) {
+	if (!isset($_POST['name']) || ($_POST['name'] === null)) {
 		$errName = 'Please enter your name';
 	}
 
@@ -66,7 +66,7 @@ if (isset($_POST["submit"])) {
 	</head>
 	<body>
 
-				<?php echo $result; ?>
+				<?php echo $errName . $errEmail . $errMessage . $result; ?>
 
 		<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 	</body>

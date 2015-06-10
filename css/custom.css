@@ -55,21 +55,30 @@ div#clear {
 
 img#bottle {
 	height: 275px !important;
+	width: 340px;
 }
 
 img#code {
 	height: 275px !important;
-	width: 280px !important;
+	width: 340px !important;
 }
 
 .thumbnail {
-	background-color: cadetblue;
+	background-color: rgb(43, 129, 106);
+	border: none;
 }
 
 #brewingcaption, #codingcaption, #horticaption {
 	text-align: center;
 	font-family: fantasy;
 	font-weight: 600;
+	color: azure;
+}
+
+#about > div:nth-child(2) > div:nth-child(1) > div > div > p,
+#about > div:nth-child(2) > div:nth-child(2) > div > div > p,
+#about > div:nth-child(2) > div:nth-child(2) > div > div > p {
+	color: azure;
 }
 
 .item {
@@ -90,7 +99,7 @@ img#code {
 }
 
 div.cd-timeline-content.bounce-in, div.cd-timeline-content {
-	background-color: skyblue !important;
+	background-color: #fff !important;
 }
 
 div.cd-timeline-content.bounce-in > h2, div.cd-timeline-content > h2 {
@@ -106,12 +115,12 @@ div#resumepanel.panel-body {
 }
 
 label.control-label {
-	color: cadetblue;
+	color: white;
 }
 
 /* Ignore the !important ;) */
 #gallery > h2 {
-	color: rgb(56, 134, 128) !important;
+	color: rgb(226, 134, 13) !important;
 	text-align: center !important;
 	font-family: "Droid Serif", serif;
 	font-size: 40px !important;
@@ -119,7 +128,7 @@ label.control-label {
 
 #contact > div > div.container > h2 {
 	text-align: center;
-	color: cadetblue;
+	color: white;
 }
 
 .first-slide, .second-slide, .third-slide {
