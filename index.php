@@ -74,7 +74,8 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 		<link type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 		<!-- Google Fonts -->
 		<link href='//fonts.googleapis.com/css?family=Roboto:400,100,300' rel='stylesheet' type='text/css'/>
-		<link href='http://fonts.googleapis.com/css?family=Droid+Serif|Open+Sans:400,700' rel='stylesheet' type='text/css'>
+		<link href='//fonts.googleapis.com/css?family=Droid+Serif|Open+Sans:400,700' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Poiret+One">
 		<link rel="stylesheet" href="/css/reset.css"> <!-- CSS reset -->
 		<link rel="stylesheet" href="/css/style.css"> <!-- jquery timeline style -->
 		<link rel="shortcut icon" href="/img/blackzia.ico">
@@ -117,7 +118,8 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 			</div> <!--End Nav Container -->
 			<div class="jumbotron" id="zia">
 				<div id="welcome" class="col-lg-12 col-lg-offset-1 col-md-12 col-xs-12">
-					<h1>Welcome, my name is James Hill</h1>
+					<h1>Welcome,</h1></br>
+					<h1>My name is James Hill</h1>
 				</div>
 				<div class="col-lg-12 col-lg-offset-3 col-md-12 col-xs-12">
 					<figure class="text-center">

@@ -18,8 +18,15 @@ body {
 	margin-bottom: 25px;
 }
 
+div#welcome > h1 {
+	font-family: Poiret One;
+	font-size: 70px;
+	font-weight: 700;
+}
+
 #welcome > h1, #zia > div.col-lg-12.col-lg-offset-3.col-md-12.col-xs-12 > div > p {
 	color: rgb(23, 107, 107);
+	font-family: poiret one;
 }
 
 #zia {
@@ -38,6 +45,11 @@ div#zia.jumbotron {
 .img-circle {
 	height: 150px;
 	width: 150px;
+}
+
+#zia > div.col-lg-12.col-lg-offset-3.col-md-12.col-xs-12 > div {
+	padding-top: 30px;
+	padding-left: 30px;
 }
 
 div#attemptatmobilefix {
@@ -78,7 +90,7 @@ img#code {
 #about > div:nth-child(2) > div:nth-child(1) > div > div > p,
 #about > div:nth-child(2) > div:nth-child(2) > div > div > p,
 #about > div:nth-child(2) > div:nth-child(3) > div > div > p {
-	color: azure;
+	color: azure !important;
 }
 
 .item {
@@ -98,12 +110,27 @@ img#code {
 	background-color: #07787C !important;
 }
 
+#education > div > h2 {
+	text-align: center;
+	font-family: Poiret One;
+	font-size: 60px;
+	font-weight: 700;
+}
+
 div.cd-timeline-content.bounce-in, div.cd-timeline-content {
 	background-color: #fff !important;
 }
 
 div.cd-timeline-content.bounce-in > h2, div.cd-timeline-content > h2 {
 	text-align: center !important;
+	font-family: poiret one;
+	font-size: 30px;
+}
+
+#cd-timeline > div:nth-child(1) > div.cd-timeline-content.bounce-in > p,
+#cd-timeline > div:nth-child(2) > div.cd-timeline-content.bounce-in > p,
+#cd-timeline > div:nth-child(3) > div.cd-timeline-content.bounce-in > p{
+	font-family: fantasy;
 }
 
 #resume {
@@ -122,8 +149,9 @@ label.control-label {
 #gallery > h2 {
 	color: rgb(226, 134, 13) !important;
 	text-align: center !important;
-	font-family: "Droid Serif", serif;
 	font-size: 40px !important;
+	font-family: poiret one;
+	font-weight: 600;
 }
 
 #contact > div > div.container > h2 {
@@ -148,6 +176,41 @@ and (-webkit-min-device-pixel-ratio: 2) {
 		height: 200px !important;
 	}
 
+	div#welcome {
+		padding-top: 0px;
+	}
+
+	#welcome > br {
+		display: none;
+	}
+
+	div#welcome > h1 {
+		font-family: Poiret One;
+		font-size: 25px;
+		font-weight: 700;
+		color: #FFF;
+	}
+
+	#zia > div.col-lg-12.col-lg-offset-3.col-md-12.col-xs-12 > div > p {
+		font-size: 10px;
+		color: #FFF;
+	}
+
+	div#zia > div.col-lg-12.col-lg-offset-3.col-md-12.col-xs-12 > div > p{
+		font-weight: 700;
+		color: #FFF;
+	}
+
+	div#attemptatmobilefix {
+		display: none;
+	}
+
+	#cd-timeline > div:nth-child(1) > div.cd-timeline-content.bounce-in > p,
+	#cd-timeline > div:nth-child(2) > div.cd-timeline-content.bounce-in > p,
+	#cd-timeline > div:nth-child(3) > div.cd-timeline-content.bounce-in > p{
+		font-size: 10px;
+	}
+
 }
 
 @media screen
@@ -157,6 +220,41 @@ and (-webkit-device-pixel-ratio: 2) {
 
 	#screenshot-carousel > div {
 		height: 200px !important;
+	}
+
+	div#welcome {
+		padding-top: 0px;
+	}
+
+	#welcome > br {
+		display: none;
+	}
+
+	div#welcome > h1 {
+		font-family: Poiret One;
+		font-size: 25px;
+		font-weight: 700;
+		color: #FFF;
+	}
+
+	#zia > div.col-lg-12.col-lg-offset-3.col-md-12.col-xs-12 > div > p {
+		font-size: 10px;
+		color: #FFF;
+	}
+
+	div#zia > div.col-lg-12.col-lg-offset-3.col-md-12.col-xs-12 > div > p{
+		font-weight: 700;
+		color: #FFF;
+	}
+
+	div#attemptatmobilefix {
+		display: none;
+	}
+
+	#cd-timeline > div:nth-child(1) > div.cd-timeline-content.bounce-in > p,
+	#cd-timeline > div:nth-child(2) > div.cd-timeline-content.bounce-in > p,
+	#cd-timeline > div:nth-child(3) > div.cd-timeline-content.bounce-in > p{
+		font-size: 10px;
 	}
 
 }
