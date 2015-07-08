@@ -6,6 +6,11 @@
 body {
 	padding-top: 50px;
 }
+
+.fa {
+	font-size: 22px;
+}
+
 .jumbotron {
 	margin: auto;
 }

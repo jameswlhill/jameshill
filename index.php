@@ -107,11 +107,12 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 					</div> <!--End Navbar Header -->
 					<div class="collapse navbar-collapse" id="navbar-collapse">
 						<ul class="nav navbar-nav">
-							<li><a href="#about">About Me</a></li>
+							<li><a href="#about">Interests</a></li>
 							<li><a href="#resume">My Resume</a></li>
 							<li><a href="#education">Education</a></li>
-							<li><a href="#contact">Contact</a></li>
-							<li><a href="//github.com/jameswlhill">My GitHub</a></li>
+							<li><a href="#contact">Contact Me</a></li>
+							<li><a href="//github.com/jameswlhill"><i class="fa fa-github"></i></a></li>
+							<li><a href="//linkedin.com/in/jameswlhill"><i class="fa fa-linkedin-square"></i></a></li>
 						</ul>
 					</div>
 				</nav> <!--End Nav -->
@@ -144,7 +145,7 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 						<div class="thumbnail">
 							<img id="bottle" src="/img/bottle.jpg"/>
 							<div class="caption">
-								<h2 id="brewingcaption">Brewing!</h2>
+								<h2 id="brewingcaption">Brewing</h2>
 								<p>
 									I've been home brewing now for a couple years, and I love it! I'm currently working with my wonderful girlfriend to
 									form a production and licensing company for an amazing and innovative new alcoholic beverage. Some of our less-classified concoctions
@@ -158,7 +159,7 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 						<div class="thumbnail">
 							<img id="code" src="/img/code.jpg"/>
 							<div class="caption">
-								<h2 id="codingcaption">Coding!</h2>
+								<h2 id="codingcaption">Coding</h2>
 								<p>
 									I'm always reading the latest headlines from various technological journals, web design consortiums, and code forums such as Stack Overflow.
 									I'm especially interested in server-side JavaScript technologies such as the MEAN stack, as well as full stack web app development platforms
@@ -324,7 +325,7 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 					</ol>
 					<div class="carousel-inner" role="listbox">
 						<div class="item active">
-							<a href="//bootcamp-coders.cnm.edu/~jhill/cheqout/shop/index.php">
+							<a href="//github.com/jameswlhill/cheqout">
 								<img class="first-slide" src="/img/cheqout.png" alt="project screenshot">
 							</a>
 							<div class="container">
