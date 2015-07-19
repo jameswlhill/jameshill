@@ -326,7 +326,7 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 					<div class="carousel-inner" role="listbox">
 						<div class="item active">
 							<a href="//github.com/jameswlhill/cheqout">
-								<img class="first-slide" src="/img/cheqout.png" alt="project screenshot">
+								<img class="first-slide" src="/img/cheqout.png" alt="class project screenshot">
 							</a>
 							<div class="container">
 								<div class="carousel-caption">
@@ -336,11 +336,16 @@ ZMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMM$.
 						</div>
 						<div class="item">
 							<a href="//www.honeymoonbrewery.com/">
-								<img class="second-slide" src="/img/honeymoon2.jpg" alt="project screenshot">
+								<img class="second-slide" src="/img/honeymoon2.jpg" alt="honeymoon brewing">
 							</a>
 						</div>
 						<div class="item">
-							<img class="third-slide" src="/img/mysite.png" alt="project screenshot">
+							<img class="third-slide" src="/img/mysite.png" alt="personal site">
+						</div>
+						<div class="item">
+							<a href="//www.bp-metro.com/">
+								<img class="fourth-slide" src="/img/bpmetro.png" alt="bp-metro site">
+							</a>
 						</div>
 					</div> <!-- end carousel inner-->
 					<a href="#screenshot-carousel" class="left carousel-control" role="button" data-slide="prev">
